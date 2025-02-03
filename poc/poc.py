@@ -1,4 +1,3 @@
-# write a small script that uses langchain to read a file and answer questions about it
 import langchain
 from langchain.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
